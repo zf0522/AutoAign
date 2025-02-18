@@ -1,5 +1,4 @@
-# hjd2048AutoAign
-通过github action每天免费hjd2048自动签到
+
 
 ## 使用方法
 fork本仓库, 修改config/Config.js里面的配置
@@ -11,4 +10,4 @@ fork本仓库, 修改config/Config.js里面的配置
 
 然后提交代码之后, 会自动执行github action就帮你自动签到了, 每天也会定时执行, UTC 0,4,8,12,16,20, 没隔4个小时会执行一次.
 
-有问题欢迎提交issue, 有其他需求的话, 也欢迎提issue联系.
+
